@@ -1,3 +1,8 @@
+# Solución Parcial - Frontend 3
+
+**Profesor:** Humberto Rivero
+**Estudiante:** Ayxa Chaverra R.
+
 ## Para correr el proyecto
 
 `npm install`
